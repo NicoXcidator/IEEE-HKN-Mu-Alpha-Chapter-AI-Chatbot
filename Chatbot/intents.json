@@ -1,0 +1,54 @@
+{"intents": [
+      {"tag": "greetings",
+      "patterns": ["hello", "hey", "hi", "good day", "greetings", "what's up", "how is it going?", "what's up", "ni hao", "konnichiwa", "dear chatbot", "hai", "apa kabar?", "howdy", "bro"],
+      "responses": ["Hello! :D", "Hey!", "What can I do for you?", "Yoo!!", "Hello, Nice to meet you :)"]
+      },
+      {"tag": "goodbye",
+      "patterns": ["cya", "see you later", "goodbye", "i am leaving", "have a good day", "bye", "cao", "see ya", "jumpa lagi", "sayounara"],
+      "responses": ["Sad to see you go :(", "See you", "Goodbye!"]
+      },
+      {"tag": "age",
+      "patterns": ["how old are you", "age?", "what is your age?", "how long you been here?", "how old is IEEE?"],
+      "responses": ["IEEE HKN Eta Kappa Mu Alpha Chapter were founded in UCSI University on 2015"]
+      },
+      {"tag": "name",
+      "patterns": ["what is your name?", "what should i call you", "how should i call you", "whats your name", "who are you", "can you tell me your name", "how can i address you", "what is this club?"],
+      "responses": ["We are IEEE HKN Eta Kappa Mu Alpha Chapter"]
+      },
+      {"tag": "IEEE",
+      "patterns": ["what is IEEE", "IEEE is",  "what organization is this", "what is IEEE only"],
+      "responses": ["World's largest technical professional organization, with many citing IEEE publications as well as attending IEEE organized professional and educational activities"]
+      },
+      {"tag": "benefit",
+      "patterns": ["what is the benefit?", "what I can get from joining this club", "benefit"],
+      "responses": ["Join discussions on various technical topics, Access to IEEE.tv for new technological developments, Network with any field's professionals, Discover IEEE events locally and internationally"]
+      },
+      {"tag": "student branch",
+      "patterns": ["what is student branch", "student branch?", "what is IEEE student branch"],
+      "responses": ["A non-technical 'Society' within IEEE for Student Members to network with one another"]
+      },
+      {"tag": "HKN",
+      "patterns": ["what is HKN", "HKN", "IEEE HKN is", "who is IEEE HKN"],
+      "responses": ["The honor society of IEEE. Honor societies recognize academic or leadership excellence among members (who are mostly students)"]
+      },
+      {"tag": "Mu Alpha",
+      "patterns": ["what is Mu alpha", "Mu alpha", "what is eta kappa nu mu alpha chapter", "why mu alpha"],
+      "responses": ["Each HKN Chapter is tied to a university. For UCSI's HKN Chapter, we are known as 'Mu Alpha'"]
+      },
+      {"tag": "Event",
+      "patterns": ["what you guys did before?", "past activity", "past event", "any event you guys do", "any activities you guys do"],
+      "responses": ["IoT talk, Stem Workshop, Data Science with pandas workshop, and many more"]
+      },
+      {"tag": "join",
+      "patterns": ["how to join you guys", "i want to join", "can i join", "i am interested to join", "how to be part of you guys", "how to be part of IEEE HKN", "how to join IEEE"],
+      "responses": ["Wahhh, thank you, can join us through this link https://forms.office.com/r/Py27cu45iJ​ :D, we are glad for you to be part of us"]
+      },
+      {"tag": "current president",
+      "patterns": ["who is the current president", "current president", "who is matthew", "who is the president", "boss", "leader", "who lead this club"],
+      "responses": ["Our current president is Matthew"]
+      },
+      {"tag": "creator",
+      "patterns": ["who make this AI chatbot", "w", "who is the creator", "who is the programmer", "who make this code"],
+      "responses": ["Our current vice president, Nico Halisno"]
+      }
+]}
